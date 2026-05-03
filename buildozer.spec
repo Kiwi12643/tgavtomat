@@ -22,3 +22,7 @@ android.permissions = INTERNET
 [buildozer]
 log_level = 1
 warn_on_root = 1
+
+# УСКОРЕНИЕ:
+android.skip_update = True
+android.release_artifact = aab
